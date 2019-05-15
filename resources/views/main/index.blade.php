@@ -11,9 +11,9 @@
                 <div class="item">
                   <div class="row">
                     <div class="col-md-5 text-right">
-                      <p><img src="assets/img/logo.png" alt="" class="ml-auto"></p>
-                      <h1>Multipurpose responsive theme</h1>
-                      <p>Business. Corporate. Agency.<br>Portfolio. Blog. E-commerce.</p>
+                      <p><img src="assets/img/masau.JPG" alt="" class="ml-auto"></p>
+                      <h1>Purpose</h1>
+                      <p>We exist for the Ugandans working tirelessly in the diaspora to change their story. </p>
                     </div>
                     <div class="col-md-7"><img src="assets/img/template-homepage.png" alt="" class="img-fluid"></div>
                   </div>
@@ -22,12 +22,12 @@
                   <div class="row">
                     <div class="col-md-7 text-center"><img src="assets/img/template-mac.png" alt="" class="img-fluid"></div>
                     <div class="col-md-5">
-                      <h2>46 HTML pages full of features</h2>
+                      <h2>Services we Offer</h2>
                       <ul class="list-unstyled">
-                        <li>Sliders and carousels</li>
-                        <li>4 Header variations</li>
-                        <li>Google maps, Forms, Megamenu, CSS3 Animations and much more</li>
-                        <li>+ 11 extra pages showing template features</li>
+                        <li>Construction Services</li>
+                        <li>Business set up</li>
+                        <li>Renovations</li>
+                        <li>Architecture</li>
                       </ul>
                     </div>
                   </div>
@@ -35,13 +35,8 @@
                 <div class="item">
                   <div class="row">
                     <div class="col-md-5 text-right">
-                      <h1>Design</h1>
-                      <ul class="list-unstyled">
-                        <li>Clean and elegant design</li>
-                        <li>Full width and boxed mode</li>
-                        <li>Easily readable Roboto font and awesome icons</li>
-                        <li>7 preprepared colour variations</li>
-                      </ul>
+                      <h1>Vision</h1>
+                      <p>Our vision is to be the leading accelerator of growth and investment of our people working and living in the diaspora across Africa, delivering exceptional client experiences and superior value.</p>
                     </div>
                     <div class="col-md-7"><img src="assets/img/template-easy-customize.png" alt="" class="img-fluid"></div>
                   </div>
@@ -50,11 +45,8 @@
                   <div class="row">
                     <div class="col-md-7"><img src="assets/img/template-easy-code.png" alt="" class="img-fluid"></div>
                     <div class="col-md-5">
-                      <h1>Easy to customize</h1>
-                      <ul class="list-unstyled">
-                        <li>7 preprepared colour variations.</li>
-                        <li>Easily to change fonts</li>
-                      </ul>
+                      <h1>Mission</h1>
+                      <p>To change one story at a time. </p>
                     </div>
                   </div>
                 </div>
