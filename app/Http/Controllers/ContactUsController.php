@@ -46,7 +46,7 @@ class ContactUsController extends Controller
        ), function($message)
    {
        $message->from('kazibwejuliusjunior@gmail.com');
-       $message->to('kjj1@muni.ac.ug', 'Admin')->subject('Masau Website Feedback');
+       $message->to('kazibwejuliusjunior@outlook.com', 'Admin')->subject('Masau Website Feedback');
    });
 
        return back()->with('success', 'Thanks for contacting us!');
