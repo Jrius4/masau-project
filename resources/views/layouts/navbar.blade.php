@@ -32,7 +32,7 @@
                 <button type="button" data-toggle="collapse" data-target="#navigation" class="navbar-toggler btn-template-outlined"><span class="sr-only">Toggle navigation</span><i class="fa fa-align-justify"></i></button>
                 <div id="navigation" class="navbar-collapse collapse">
                   <ul class="nav navbar-nav ml-auto">
-                    <li class="nav-item active"><a href="/">Home</a></li>
+                    <li class="nav-item"><a href="/">Home</a></li>
                     <li class="nav-item"><a href="/portfolio">Portfolio</a></li>
                     <li class="nav-item"><a href="/services">Services</a></li>
                     <li class="nav-item"><a href="/about-us">About Us</a></li>
