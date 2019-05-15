@@ -122,10 +122,10 @@
       <div class="container">
         <div class="row">
           <div class="col-lg-4 text-center-md">
-            <p>&copy; 2019. Your company / name goes here</p>
+            <p>&copy; 2019. Masau</p>
           </div>
           <div class="col-lg-8 text-right text-center-md">
-            <p>Template design by <a href="https://bootstrapious.com/p/big-bootstrap-tutorial">Bootstrapious </a>& <a href="https://fity.cz/ostrava">Fity</a></p>
+            <p>Designed by <a href="#">ndebitech</p>
             <!-- Please do not remove the backlink to us unless you purchase the Attribution-free License at https://bootstrapious.com/donate. Thank you. -->
           </div>
         </div>
