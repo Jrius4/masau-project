@@ -66,7 +66,9 @@
       </section>
       <section class="bar background-white">
         <div class="container text-center">
-          <h3>Services we offer</h3>
+            <div class="heading text-center">
+                <h2>Services we Offer</h2>
+              </div>
           <div class="row">
             <div class="col-md-6">
               <div class="box-simple">
