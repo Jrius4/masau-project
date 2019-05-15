@@ -68,39 +68,36 @@
         <div class="container text-center">
           <h3>Services we offer</h3>
           <div class="row">
-            <div class="col-lg-4 col-md-6">
+            <div class="col-md-6">
               <div class="box-simple">
                 <div class="icon-outlined"><i class="fa fa-home"></i></div>
                 <h3 class="h4">Construction Services</h3>
                 <p>We work hand in hand with each client from design to occupancy, to make sure your project is on time and on budget.We help our clients set up their business idea and watch it grow. </p>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-md-6">
               <div class="box-simple">
                 <div class="icon-outlined"><i class="fa fa-briefcase"></i></div>
                 <h3 class="h4">Business set up</h3>
                 <p>We strive to always view the future from our client’s perspective and to share their ambition as well as challenging them to be innovative and create businesses for growth and scale.</p>
               </div>
             </div>
-            <div class="col-lg-4 col-md-6">
+            <div class="col-md-6">
               <div class="box-simple">
                 <div class="icon-outlined"><i class="fa fa-wrench"></i></div>
                 <h3 class="h4">Renovations</h3>
                 <p>If you already have a property back home and you would like it renovated, get in touch and let’s recreate your spaces.</p>
               </div>
             </div>
-          </div>
-          <div class="row">
-            <div class="col-lg-4 col-md-6">
-              <div class="box-simple">
-                <div class="icon-outlined"><i class="fa fa-pencil"></i></div>
-                <h3 class="h4">Architecture</h3>
-                <p>Our architect staff have over 20 years of experience and can be trusted to deliver top notch designs for your assignment.</p>
+            <div class="col-md-6">
+                <div class="box-simple">
+                  <div class="icon-outlined"><i class="fa fa-pencil"></i></div>
+                  <h3 class="h4">Architecture</h3>
+                  <p>Our architect staff have over 20 years of experience and can be trusted to deliver top notch designs for your assignment.</p>
+                </div>
               </div>
-            </div>
-            
-            
           </div>
+          
         </div>
       </section>
       <section class="bar background-pentagon no-mb text-md-center">
