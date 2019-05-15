@@ -56,6 +56,7 @@
           <!-- Carousel End-->
         </div>
       </section>
+      <!--services-->
       <section class="bar background-white">
         <div class="container text-center">
             <div class="heading text-center">
@@ -94,6 +95,7 @@
           
         </div>
       </section>
+      <!--end services-->
       <section class="bar background-pentagon no-mb text-md-center">
         <div class="container">
           <div class="heading text-center">
@@ -195,7 +197,7 @@
       <section style="background: url(assets/img/fixed-background-2.jpg) center top no-repeat; background-size: cover;" class="bar no-mb color-white text-center bg-fixed relative-positioned">
         <div class="dark-mask"></div>
         <div class="container">
-          <div class="icon icon-outlined icon-lg"><i class="fa fa-file-code-o"></i></div>
+          <div class="icon icon-outlined icon-lg"><i class="fa fa-bullhorn"></i></div>
           <h3 class="text-uppercase">Do you want to see more?</h3>
           <p class="lead">We do everything in our power to ensure that we provide our clients with the products, </p>
           <p class="text-center"><a href="/services" class="btn btn-template-outlined-white btn-lg">Learn More</a></p>

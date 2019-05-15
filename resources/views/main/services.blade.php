@@ -18,62 +18,46 @@
       </div>
       <div id="content">
         <div class="container">
-          <section class="bar">
+               <!--services-->
+      <section class="bar background-white">
+          <div class="container text-center">
+              <div class="heading text-center">
+                  <h2>Our Main Services</h2>
+                </div>
             <div class="row">
-              <div class="col-md-12">
-                <div class="heading">
-                  <h2>Our main services</h2>
+              <div class="col-md-6">
+                <div class="box-simple">
+                  <div class="icon-outlined"><i class="fa fa-home"></i></div>
+                  <h3 class="h4">Construction Services</h3>
+                  <p>We work hand in hand with each client from design to occupancy, to make sure your project is on time and on budget.We help our clients set up their business idea and watch it grow. </p>
                 </div>
-                <p class="lead">Yielding, they're air. Land replenish spirit given gathered subdue, day Blessed you'll great created, lights a one light, blessed deep morning, appear our. Fruit multiply, creeping first image. Upon saw isn't male winged to replenish tree and.</p>
               </div>
+              <div class="col-md-6">
+                <div class="box-simple">
+                  <div class="icon-outlined"><i class="fa fa-briefcase"></i></div>
+                  <h3 class="h4">Business set up</h3>
+                  <p>We strive to always view the future from our client’s perspective and to share their ambition as well as challenging them to be innovative and create businesses for growth and scale.</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                <div class="box-simple">
+                  <div class="icon-outlined"><i class="fa fa-wrench"></i></div>
+                  <h3 class="h4">Renovations</h3>
+                  <p>If you already have a property back home and you would like it renovated, get in touch and let’s recreate your spaces.</p>
+                </div>
+              </div>
+              <div class="col-md-6">
+                  <div class="box-simple">
+                    <div class="icon-outlined"><i class="fa fa-pencil"></i></div>
+                    <h3 class="h4">Architecture</h3>
+                    <p>Our architect staff have over 20 years of experience and can be trusted to deliver top notch designs for your assignment.</p>
+                  </div>
+                </div>
             </div>
-            <div class="row services text-center">
-              <div class="col-md-4">
-                <div class="box-simple">
-                  <div class="icon-outlined"><i class="fa fa-desktop"></i></div>
-                  <h3 class="h4">Webdesign</h3>
-                  <p>Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="box-simple">
-                  <div class="icon-outlined"><i class="fa fa-print"></i></div>
-                  <h3 class="h4">Print</h3>
-                  <p>Advantage old had otherwise sincerity dependent additions. It in adapted natural hastily is justice. Six draw you him full not mean evil. Prepare garrets it expense windows shewing do an.</p>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="box-simple">
-                  <div class="icon-outlined"><i class="fa fa-globe"></i></div>
-                  <h3 class="h4">SEO and SEM</h3>
-                  <p>Am terminated it excellence invitation projection as. She graceful shy believed distance use nay. Lively is people so basket ladies window expect.</p>
-                </div>
-              </div>
-            </div>
-            <div class="row services text-center">
-              <div class="col-md-4">
-                <div class="box-simple">
-                  <div class="icon-outlined"><i class="fa fa-lightbulb-o"></i></div>
-                  <h3 class="h4">Consulting</h3>
-                  <p>Fifth abundantly made Give sixth hath. Cattle creature i be don't them behold green moved fowl Moved life us beast good yielding. Have bring.</p>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="box-simple">
-                  <div class="icon-outlined"><i class="fa fa-envelope-o"></i></div>
-                  <h3 class="h4">Email Marketing</h3>
-                  <p>Advantage old had otherwise sincerity dependent additions. It in adapted natural hastily is justice. Six draw you him full not mean evil. Prepare garrets it expense windows shewing do an.</p>
-                </div>
-              </div>
-              <div class="col-md-4">
-                <div class="box-simple">
-                  <div class="icon-outlined"><i class="fa fa-user"></i></div>
-                  <h3 class="h4">UX</h3>
-                  <p>Am terminated it excellence invitation projection as. She graceful shy believed distance use nay. Lively is people so basket ladies window expect.</p>
-                </div>
-              </div>
-            </div>
-          </section>
+            
+          </div>
+        </section>
+        <!--end services-->
           <section class="bar pt-0">
             <div class="row">
               <div class="col-md-12">
