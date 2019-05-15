@@ -5,7 +5,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <title>Universal - All In 1 Template</title>
+    <title>Masau</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="robots" content="all,follow">
@@ -25,18 +25,20 @@
     <!-- Custom stylesheet - for your changes-->
     <link rel="stylesheet" href="assets/css/custom.css">
     <!-- Favicon and apple touch icons-->
-    <link rel="shortcut icon" href="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
+    {{-- <link rel="shortcut icon" href="https://d19m59y37dris4.cloudfront.net/universal/2-0-2/img/favicon.ico" type="image/x-icon"> --}}
+    {{-- <link rel="apple-touch-icon" href="assets/img/apple-touch-icon.png">
     <link rel="apple-touch-icon" sizes="57x57" href="assets/img/apple-touch-icon-57x57.png">
     <link rel="apple-touch-icon" sizes="72x72" href="assets/img/apple-touch-icon-72x72.png">
     <link rel="apple-touch-icon" sizes="76x76" href="assets/img/apple-touch-icon-76x76.png">
     <link rel="apple-touch-icon" sizes="114x114" href="assets/img/apple-touch-icon-114x114.png">
     <link rel="apple-touch-icon" sizes="120x120" href="assets/img/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="assets/img/apple-touch-icon-152x152.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="assets/img/apple-touch-icon-144x144.png"> --}}
+    {{-- <link rel="apple-touch-icon" sizes="152x152" href="assets/img/favimasau.JPG"> --}}
     <!-- Tweaks for older IEs--><!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
         <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script><![endif]-->
+
+        <link rel="shortcut icon" href="assets/img/favimasau.JPG" type="image/x-icon">
   </head>
   <body>
     @include('layouts.navbar')
